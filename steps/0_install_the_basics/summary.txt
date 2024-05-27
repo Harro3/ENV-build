@@ -1,1 +1,1 @@
-This step install basic dev tools.
+Install basic dev tools.
